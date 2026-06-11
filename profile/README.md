@@ -298,9 +298,9 @@ Objetivos principais:
 
 ## Frontend
 
-- React
-- TypeScript
-- Vite
+- HTML
+- CSS
+- JS
 
 ## Backend
 
