@@ -414,7 +414,7 @@ Curso de Análise e Desenvolvimento de Sistemas
 - Ashley Sousa Correia
 - João Victor de Lima Souza
 - Pedro Gabriel Santos Souza
-- Vander Nunes Tenório Machado
+
 
 **Orientadoras**
 
